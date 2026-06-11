@@ -1,0 +1,28 @@
+# Computer Vision & Pose Estimation
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+
+# Data Math & Visualization
+numpy>=1.23.5
+matplotlib>=3.7.1
+
+# Notebook Tracking (Optional)
+nbformat>=5.9.0
+
+/////////////////////
+# Graphical User Interface (GUI)
+PyQt5>=5.15.9
+
+# Audio & Media Utilities
+pygame>=2.5.0
+
+# Computer Vision & Pose Estimation
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+
+# Data Math & Visualization
+numpy>=1.23.5
+matplotlib>=3.7.1
+
+# Notebook Utilities
+nbformat>=5.9.0
